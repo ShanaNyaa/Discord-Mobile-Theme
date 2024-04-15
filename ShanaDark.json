@@ -120,9 +120,6 @@
     "CHANNEL_ICON": [
       "#edb7b7"
     ],
-    "CHANNELS_DEFAULT": [
-      "#4d3939"
-    ],
     "EMBED_BACKGROUND": [
       "#4d3939"
     ],
@@ -130,10 +127,10 @@
       "#E792C5"
     ],
     "HEADER_SECONDARY": [
-      "FFEFFF"
+      "#FFEFFF"
     ],
     "INTERACTIVE_ACTIVE": [
-      "FFFFFF"
+      "#FFFFFF"
     ],
     "INTERACTIVE_HOVER": [
       "#DEDCDE"
@@ -142,16 +139,13 @@
       "#BF8AB0"
     ],
     "INTERACTIVE_NORMAL": [
-      "FFFEFF"
+      "#FFFEFF"
     ],
     "MENTION_BACKGROUND": [
       "#ff63635e"
     ],
     "MENTION_FOREGROUND": [
       "#FCD4d4"
-    ],
-    "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
-      "#1b1616"
     ],
     "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
       "#1b1616"
@@ -243,7 +237,6 @@
     "BRAND_630": "#a1647f",
     "BRAND_660": "#995f79",
     "BRAND_700": "#8f5971",
-    "ORANGE_345": "#f23030",
     "PLUM_1": "#F4F3F3",
     "PLUM_10": "#918181",
     "PLUM_11": "#807070",
@@ -271,7 +264,7 @@
     "PRIMARY_460": "#2b232f",
     "PRIMARY_500": "#e68cbf",
     "PRIMARY_530": "#d46ea7",
-    "PRIMARY_600": "#0d0c0e",
+    "PRIMARY_600": "#0E0C0C",
     "PRIMARY_630": "#151216",
     "PRIMARY_645": "#0d0b0e",
     "PRIMARY_660": "#18141a",
@@ -366,7 +359,7 @@
   },
   "background": {
     "blur": 0.1,
-    "url": "https://i.imgur.com/Kfk07Ux.jpeg",
+    "url": "",
     "OPACITY": 0
   },
   "plus": {
